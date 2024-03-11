@@ -71,41 +71,38 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ## Output:
 
 ## 1.Placement Data
-![the Logistic Regression Model to Predict the Placement Status of Student](/s1.png)
+![image](https://github.com/ATHMAJ03/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118753139/98104a9c-dc6d-49d1-a9a1-99069af6367f)
 
 ## 2.Salary Data
-
-![the Logistic Regression Model to Predict the Placement Status of Student](/s2.png)
+![image](https://github.com/ATHMAJ03/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118753139/e73ae91f-94af-4dc6-836f-dd7661c0fb4b)
 
 ## 3. Checking the null function()
-![the Logistic Regression Model to Predict the Placement Status of Student](/s3.png)
+![image](https://github.com/ATHMAJ03/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118753139/b94f186b-736f-4f28-8ec3-12eb847a2feb)
 
 ## 4.Data Duplicate
-![the Logistic Regression Model to Predict the Placement Status of Student](/s4.png)
+![image](https://github.com/ATHMAJ03/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118753139/55cc1c42-99fa-4453-b092-c0d6634ec596)
 
 ## 5.Print Data
-![the Logistic Regression Model to Predict the Placement Status of Student](/s5.png)
+![image](https://github.com/ATHMAJ03/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118753139/94ed526c-fd9f-434f-b66e-de39971382e5)
 
 ## 6.Data Status
-![the Logistic Regression Model to Predict the Placement Status of Student](/s7.png)
+![image](https://github.com/ATHMAJ03/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118753139/bdf7f80e-6dd3-4539-9e66-b5596821af24)
 
 ## 7.y_prediction array
-![the Logistic Regression Model to Predict the Placement Status of Student](/s12.png)
+![image](https://github.com/ATHMAJ03/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118753139/a1cb327e-1f42-4da1-83d9-b14ddf7d0e23)
 
 ## 8.Accuracy value
 
-![the Logistic Regression Model to Predict the Placement Status of Student](/s8.png)
+![image](https://github.com/ATHMAJ03/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118753139/b10dee90-eaa6-44b8-a6f9-23c3e909545c)
 
 ## 9.Confusion matrix
-![the Logistic Regression Model to Predict the Placement Status of Student](/s9.png)
+![image](https://github.com/ATHMAJ03/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118753139/d9bdc644-a49a-407f-942a-715773f0ca65)
 
 ## 10.Classification Report
-![the Logistic Regression Model to Predict the Placement Status of Student](/s10.png)
+![image](https://github.com/ATHMAJ03/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118753139/e659e723-be3b-4ceb-9856-c421c0170031)
 
 ## 11.Prediction of LR
-![the Logistic Regression Model to Predict the Placement Status of Student](/s11.png)
-
-
+![image](https://github.com/ATHMAJ03/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118753139/9f33b586-a40c-40c6-8829-8006afd6a07d)
 
 
 ## Result:
